@@ -3,6 +3,9 @@ package one.digitalinnovation.digitalonebanck
 class Pessoa {
     var nome: String = " Anderson"
     var cpf: String = "111.552.996-15"
+    private set
+
+
 }
 
 fun main(){
